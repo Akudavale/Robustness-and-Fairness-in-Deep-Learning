@@ -4,8 +4,8 @@
 4) Analyze class-wise natural and robust accuracies in each scenario.
 
 Results:
-Standard training accuracy = 0.999 (100 epochs)
-Standard test accuracy = 0.930
-PGD_training accuracy (Adversial Images + Orginal Images) = 0.943 (200 epochs )
-PGD Test accuracy on adverisl images = 0.454 
-PGD test accuracy on orginal images = 0.850
+Standard training accuracy = 0.999 (100 epochs),
+Standard test accuracy = 0.930,
+PGD_training accuracy (Adversial Images + Orginal Images) = 0.943 (200 epochs ), 
+PGD Test accuracy on adverisl images = 0.454, 
+PGD test accuracy on orginal images = 0.850, 
