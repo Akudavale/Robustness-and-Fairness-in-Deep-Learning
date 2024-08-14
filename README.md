@@ -61,9 +61,9 @@ Model Saving: The trained model is saved as pgd_Targated_resnet18.pth.
 ## Usage
 To run any of the scripts, simply execute them with Python:
 ```bash
-python train_standard.py
-python train_pgd.py
-python train_pgd_targeted.py
+python standard_training.py
+python Targated_Training.py
+python Untargated_Training.py
 ```
 ## Acknowledgements
 **ResNet18**: The model is based on Github repository "ndb796/Pytorch-Adversarial-Training-CIFAR"
