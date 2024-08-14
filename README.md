@@ -20,6 +20,8 @@ pip install torch torchvision
 ```
 ## Dataset
 The CIFAR-10 dataset is used for training and testing. Ensure the dataset is available in the ./data directory. It can be downloaded using torchvision.datasets.
+## Models
+The ResNet18 design in this project is simpler than in paper "Towards deep learning models resistant to adversarial attacks". The Models file containes all Resnet models with predefined output channels equal to classes in CIFAR-10 dataset.
 
 ## Scripts
 
