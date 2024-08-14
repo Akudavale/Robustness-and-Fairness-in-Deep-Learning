@@ -67,4 +67,5 @@ python Untargated_Training.py
 ```
 ## Acknowledgements
 **ResNet18**: The model is based on Github repository "ndb796/Pytorch-Adversarial-Training-CIFAR"
+
 **CIFAR-10 Dataset**: Used with permission from the CIFAR-10 dataset creators.
