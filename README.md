@@ -65,3 +65,6 @@ python train_standard.py
 python train_pgd.py
 python train_pgd_targeted.py
 ```
+## Acknowledgements
+**ResNet18**: The model is based on Github repository "ndb796/Pytorch-Adversarial-Training-CIFAR"
+**CIFAR-10 Dataset**: Used with permission from the CIFAR-10 dataset creators.
